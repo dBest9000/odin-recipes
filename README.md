@@ -1,0 +1,2 @@
+This project names Odin Recipes is the beginning of my odin journey. This will test my HTML skills
+I am pretty confident in my HTML skills in the basic setting like <tags>. I am looking to improving my CSS skill for sure.
